@@ -5,7 +5,7 @@
 - FORK THE REPOSITORY [Here](https://github.com/ERR0R-x-PREDAT0R/MD-Bot/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALINSHAN/Jarvis-Bot-V2-Multi-Device-Qr)
 
 ## `SETTINGS`
 
@@ -71,3 +71,13 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+
+
+## Developers
+<div align="center">
+
+[![ERROR-X-PREDATOR](https://github.com/Alinshan.png?size=200)](https://github.com/Alinshan) | [![JOSEPH XEON](https://github.com/DGXeon.png?size=200)](https://github.com/DGXeon) |
+----|----|
+[ERROR-X-PREDATOR](https://github.com/Alinshan) | [JOSEPH XEON](https://github.com/DGXeon) |
+Re-Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |
+  </div>
